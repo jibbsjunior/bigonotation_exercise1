@@ -23,5 +23,5 @@ const uniqSort = function(arr) {
     return arr.sort((a, b) => a - b);
 };
 
-uniqSort([4,2,2,3,2,2,2]); // => [2,3,4]
+// uniqSort([4,2,2,3,2,2,2]); // => [2,3,4]
 // console.log(uniqSort([4,3,3,,2,2,2,1]));
